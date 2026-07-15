@@ -65,5 +65,4 @@ This project was developed as part of the **Codec Technologies Internship**.
 
 - B.Tech (Computer Science & Engineering)
 - Centurion University of Technology and Management
-- 
-GitHub: https://github.com/bijayakumar2409-hue
+-GitHub: https://github.com/bijayakumar2409-hue
