@@ -49,14 +49,11 @@ http://127.0.0.1:5000
 ```
 
 ## 📸 Preview
-
 ## Screenshots
 
-## Screenshots
+![Screenshot 1](screenshot1.png)
 
-(screenshots1.png)
-
-(screenshots2.png)
+![Screenshot 2](screenshot2.png)
 
 ## 🎯 Internship Task
 
