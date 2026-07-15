@@ -50,7 +50,13 @@ http://127.0.0.1:5000
 
 ## 📸 Preview
 
-![Screenshot](Screenshot.png)
+## Screenshots
+
+## Screenshots
+
+![Spam Result](screenshots/spam.png)
+
+![Not Spam Result](screenshots/notspam.png)
 
 ## 🎯 Internship Task
 
