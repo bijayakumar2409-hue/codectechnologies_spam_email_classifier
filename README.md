@@ -54,9 +54,9 @@ http://127.0.0.1:5000
 
 ## Screenshots
 
-![Spam Result](screenshots/spam.png)
+(screenshots1.png)
 
-![Not Spam Result](screenshots/notspam.png)
+(screenshots2.png)
 
 ## 🎯 Internship Task
 
